@@ -8,3 +8,6 @@ that's right... new edits here..  learning quickly but still having probelms
 cloning this repository onto my computere.  I have to work directly in github...  ?
 ----------------------------------------------
 i didn't quite understand the merge so I'm going to try again
+
+Steve and Michael
+===
