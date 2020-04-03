@@ -9,5 +9,5 @@ cloning this repository onto my computere.  I have to work directly in github...
 ----------------------------------------------
 i didn't quite understand the merge so I'm going to try again
 
-Steve and Michael
+Steve and Michael and Greg
 ===
